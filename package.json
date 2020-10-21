@@ -1,7 +1,7 @@
 {
   "name": "note-taker",
   "version": "1.0.0",
-  "description": "",
+  "description": "<h1 align=\"center\">Note Taker 👋</h1>",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
@@ -11,5 +11,14 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.16.4"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/COUCHPUMA/ExpressNoteTaker.git"
+  },
+  "bugs": {
+    "url": "https://github.com/COUCHPUMA/ExpressNoteTaker/issues"
+  },
+  "homepage": "https://github.com/COUCHPUMA/ExpressNoteTaker#readme"
 }
