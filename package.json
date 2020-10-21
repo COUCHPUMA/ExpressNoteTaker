@@ -7,7 +7,7 @@
     "start": "node server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Richard Katsnelson",
   "license": "ISC",
   "dependencies": {
     "express": "^4.16.4"
@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/COUCHPUMA/ExpressNoteTaker/issues"
   },
-  "homepage": "https://github.com/COUCHPUMA/ExpressNoteTaker#readme"
+  "homepage": "https://github.com/COUCHPUMA/ExpressNoteTaker#readme",
+  "keywords": [
+    "note"
+  ]
 }
